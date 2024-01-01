@@ -1,8 +1,8 @@
 # localhost
-Several solutions for running a local HTTP server
+Several light solutions for running a local HTTP server.
 
 ## Python 
-First check your python version installed: 
+:x
 ```bash
 python -V
 # or
