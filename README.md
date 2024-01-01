@@ -6,3 +6,12 @@ Several solutions for running a local HTTP server
 ```bash
 python3 -m http.server --directory /path/to/directory
 ```
+
+## Julia
+```julia
+pkg> add LiveServer
+```
+```julia
+julia> using LiveServer
+julia> serve(host="0.0.0.0", port=8001, dir=".")
+```
