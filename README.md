@@ -3,7 +3,7 @@ Several solutions for running a local HTTP server
 
 ## Python 
 First check your python version installed: 
-````bash
+```bash
 python -V
 # or
 python3 -V
